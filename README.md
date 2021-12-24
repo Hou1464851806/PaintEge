@@ -1,3 +1,3 @@
 # PaintEge
-CMD style
-仿CMD命令行风格
+- CMD style
+- 仿CMD命令行风格
